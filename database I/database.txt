@@ -1,0 +1,24 @@
+database: 
+
+create table / sequence
+insert -> for specific attributes 
+update or delete 
+constraints cascade or set null or no action 
+
+cyclic dependencies + insert = problem 
+
+select 
+
+TO_CHAR 
+
+set semantics -> union, intersect and minus (understand the differences between union and join: union takes two relations with the same schema and combine all the records together, the length of the combined table = the length of the two table combined ) 
+cross join 
+left, right or full join 
+
+aggregations 
+
+Having/Where 
+
+order of execution 
+group by rollup 
+
